@@ -20,7 +20,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 | 1 | Installation and introduction to Python and Git | -- | [Slides](Week1/Slides_W1.pdf) |
 | 2 | Basic Python programming | Loops, functions, data types | [Notebook](Week2/notebooks/exercises_data_types.ipynb), [Notebook with supplementary exercises](Week2/notebooks/01_intro_python.ipynb) |
 | 3 | Data Cleaning and Manipulation | Pandas, NumPy | [Notebook on Numpy](/Week_3/logistic_regression.ipynb), [Notebook on Pandas](Week3/03-02-Pandas_basics.ipynb) [Notebook on data cleaning](Week3/03-03-Missing_Values.ipynb) [Notebook on data handling](Week3/03-04-Pandas_data_analysis.ipynb) |
-| 4 | Data Visualization | Seaborn, Matplotlib | Notebooks 
+| 4 | Data Visualization | Seaborn, Matplotlib | [Slides](/Week4/Week4.pdf) [Notebook on basic plots](/Week4/04-01-Visualization-basic-plots.ipynb) [Notebook on advanced plots](/Week4/04-02-Advanced_visualization-1.ipynb) 
 | 5 |  | 
 | 6 |  | 
 

@@ -11,9 +11,9 @@ This course is designed to introduce you to data analysis techniques, emphasizin
 
 The goal is for you to gain confidence with basic Python programming, and leverage it for data analysis use cases. You will also learn how to manage a **collaborative project** in GitHub.
 
-## 🗂️ Course Content
+## Course Content
 
-Below is a week-by-week breakdown of what we’ll cover:
+Below is a table of contents of what we’ll cover:
 
 | Week | Topic | Key Concepts | Materials |
 |------|--------|---------------|------------|
@@ -27,7 +27,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 
 ---
 
-## 🧮 Evaluation
+## Evaluation
 
 Your performance in this course will be evaluated based on the **final assignment (group project)**:
 
@@ -39,7 +39,7 @@ Your performance in this course will be evaluated based on the **final assignmen
 
 ---
 
-## 📚 Recommended Readings
+## Recommended Readings
 
 To deepen your understanding and broaden your perspective, consider exploring the following:
 

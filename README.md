@@ -1,6 +1,6 @@
 # Introduction to Data Analysis with Python
 
-This is the repository of the course "Introduction to Data Analysis with Python" given at SciencesPo in fall 2025.
+This is the repository of the course "Introduction to Data Analysis with Python" given at SciencesPo.
 **Please note that this repository is still subject to changes.**
 
 ---
@@ -22,7 +22,7 @@ Below is a table of contents of what we’ll cover:
 | 3 | Data Cleaning and Manipulation | Pandas, NumPy | [Notebook on Numpy](/Week_3/logistic_regression.ipynb), [Notebook on Pandas](Week3/03-02-Pandas_basics.ipynb) [Notebook on data cleaning](Week3/03-03-Missing_Values.ipynb) [Notebook on data handling](Week3/03-04-Pandas_data_analysis.ipynb) |
 | 4 | Data Visualization | Seaborn, Matplotlib | [Slides](/Week4/Week4.pdf), [Notebook on basic plots](/Week4/04-01-Visualization-basic-plots.ipynb) ,[Notebook on advanced plots](/Week4/04-02-Advanced_visualization-1.ipynb) 
 | 5 | Exploratory Data Analysis (EDA) | more advanced Pandas and Numpy | [Slides](), [Notebook]()
-| 6 |  | 
+| 6 | Introduction to Statistical Modeling | Regression, Classification | [Slides](/Week6/W2_Linear_Regression.pdf), [Notebook](/Week6/linear_regression_.ipynb), [Exercises](/Week6/exercises_class_linreg.ipynb) 
 
 
 ---
@@ -31,11 +31,11 @@ Below is a table of contents of what we’ll cover:
 
 Your performance in this course will be evaluated based on the **final assignment (group project)**:
 
-- Project description due by **November 15, 2025**. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
+- Project description due by **March 30, 2026**. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
     - The project description is not part of the final grading, but **mandatory** if you want to submit the assignment.
-- Final project: due by **December 20, 2025**. Please hand in:
+- Final project: due by **May 4, 2026**. Please hand in:
     - GitHub repository with the code, **thoroughly commented**
-    - A report in form of a research paper, between 4 and 8 pages.
+    - A report in form of a research paper, between 3 and 6 pages.
 
 ---
 
